@@ -3,7 +3,7 @@ package attachecase
 import ()
 
 const (
-	fsFile = iota
+	fsFile = iota + 1000
 	fsDir
 )
 

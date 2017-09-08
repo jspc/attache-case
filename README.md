@@ -3,12 +3,7 @@
 Attache Case
 ==
 
-Remember Microsoft Briefcase? I do. I remembered it at a pub lunch with some colleagues one friday. I decided that parts of this were so cool I had to write them in `go` on top of a remoteless git repo.
-
-Why?
---
-
-Who fucking knows.
+Attache Case is a tool for handling `.attache` files; a format which is defined in [/attache](/attache) but which is ultimately a representation of a filesystem with some revision history.
 
 Licence
 --
